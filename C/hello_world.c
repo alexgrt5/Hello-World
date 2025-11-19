@@ -1,0 +1,11 @@
+// Hola Mundo en C
+// Hello World in C
+
+#include <stdio.h>
+
+int main() {
+    printf("Hola, mundo!\n");
+    return 0;
+}
+
+// compile: gcc hello_world.c
