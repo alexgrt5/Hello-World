@@ -16,6 +16,7 @@ Este repositorio contiene ejemplos en los siguientes lenguajes:
 - ☕ **Java** - Lenguaje orientado a objetos multiplataforma
 - 💛 **JavaScript** - Lenguaje de scripting para web
 - 💙 **TypeScript** - Superset tipado de JavaScript
+- 🐘 **PHP** - Lenguaje de programación de propósito general
 
 ## 🚀 Uso
 
