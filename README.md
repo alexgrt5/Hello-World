@@ -108,6 +108,21 @@ node hello_world.js
 - Node.js y npm instalados
 - TypeScript instalado globalmente
 
+---
+
+### PHP
+
+```bash
+cd PHP
+php hello_world.php
+```
+
+**Requisitos:**
+
+- PHP instalado
+
+---
+
 ## 📦 Estructura del Proyecto
 
 ```
@@ -130,6 +145,9 @@ Hello-World/
 │
 ├── TypeScript/
 │   └── hello_world.ts
+│
+├── PHP/
+│   └── hello_world.php
 │
 └── README.md
 ```
@@ -255,6 +273,11 @@ npm install -g typescript
 
 - [Documentación oficial de TypeScript](https://www.typescriptlang.org/docs/)
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+
+### PHP
+
+- [Documentación oficial de PHP](https://www.php.net/docs)
+- [PHP para principiantes](https://www.php.net/getting-started)
 
 ## 🤝 Contribuciones
 
